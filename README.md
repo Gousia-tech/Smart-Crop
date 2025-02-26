@@ -1,10 +1,10 @@
-# Smart-Crop
+# Smart-Farm
 A website developed to help farmers by providing crop and fertilizer recommendation services Developed using HTML, CSS, Bootstrap &amp; JavaScript
 
-# Smart Crop Recommendation System
+# Smart Farm Recommendation System
 
 ## Overview
-The **Smart Crop Recommendation System** is a website developed to help farmers make informed decisions about crop selection and fertilizer usage. The platform offers personalized crop and fertilizer recommendations based on input parameters such as soil type, climate, and region. By providing these tailored suggestions, the system aims to increase farming efficiency, improve crop yields, and promote sustainable agricultural practices.
+The **Smart Farm Recommendation System** is a website developed to help farmers make informed decisions about crop selection and fertilizer usage. The platform offers personalized crop and fertilizer recommendations based on input parameters such as soil type, climate, and region. By providing these tailored suggestions, the system aims to increase farming efficiency, improve crop yields, and promote sustainable agricultural practices.
 
 This project was developed using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
 
